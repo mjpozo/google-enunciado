@@ -6781,6 +6781,9 @@ body {
   margin: 0;
   font-family: 'Lato', sans-serif; }
 
+.task {
+  padding: 5%; }
+
 .azul {
   color: #4285f4; }
 
@@ -6804,7 +6807,10 @@ body {
     display: inline-block;
     padding: 0 2%; }
 
-.section-two {
+.section-two, .section-three, footer {
   padding: 0 7%; }
+
+.section-four, .section-five {
+  padding: 0 5%; }
 
 /*# sourceMappingURL=main.css.map */
