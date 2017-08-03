@@ -6882,5 +6882,10 @@ footer {
     position: relative;
     top: 23px;
     left: 2vw; }
+  footer .foot {
+    padding-top: 3%; }
+    footer .foot span {
+      float: right;
+      margin-top: 3%; }
 
 /*# sourceMappingURL=main.css.map */
