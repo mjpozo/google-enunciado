@@ -7,11 +7,26 @@
 body {
 	padding: 0;
 	margin: 0;
-	font-family: 'Lato', sans-serif;
+	font-family: $fuente_general;
+}
+
+a {
+	color: $azul-google;
 }
 
 .task {
 	padding: 5%;
+}
+
+.title {
+	color: $gris_titulos;
+}
+
+hr {
+	color: $azul-google;
+	border: 2px solid $azul-google;
+	width: 84%;
+	margin: 0 auto;
 }
 
 .azul {
